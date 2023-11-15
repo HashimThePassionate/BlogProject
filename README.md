@@ -12,6 +12,5 @@ Welcome to the Django Simple Blog application! This web app allows users to regi
 1. Clone the repository:
 ```
    git clone https://github.com/HashimThePassionate/BlogProject.git
-   cd django-simple-blog
 ```
 #### Enjoy!
